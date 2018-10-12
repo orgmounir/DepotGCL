@@ -1,2 +1,2 @@
 # DepotGCL
-gestion des comptes
+gestion des comptes git
